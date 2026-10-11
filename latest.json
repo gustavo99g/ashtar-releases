@@ -1,0 +1,11 @@
+ {
+     "version": "0.1.91",
+     "notes": "Teste do updater",
+     "pub_date": "2026-10-08T00:00:00Z",
+     "platforms": {
+       "windows-x86_64": {
+         "signature": "<conteúdo inteiro do .sig>",
+         "url": "https://github.com/gustavo99g/ashtar-releases/releases/download/teste-0.1.91/Ashtar_0.1.91_x64-setup.exe"
+       }
+     }
+   }
